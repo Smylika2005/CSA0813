@@ -1,0 +1,17 @@
+a=10
+b=20
+c=a+b
+print(c)
+30
+c=c+a
+print(c)
+40
+c=c-a
+print(c)
+30
+c=c*a
+print(c)
+3000
+c=c/a
+print(c)
+300.0
