@@ -1,0 +1,6 @@
+food={"ham":"yes","egg":"yes","rate":450}
+print(food)
+{'ham': 'yes', 'egg': 'yes', 'rate': 450}
+print(food["rate")
+450
+       
