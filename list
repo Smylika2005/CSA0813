@@ -1,0 +1,19 @@
+num=(1,2,3)
+print(num)
+(1, 2, 3)
+num=[1,2,3,4]
+print(num)
+[1, 2, 3, 4]
+num=[1,2,3,4,5]
+print(num)
+[1, 2, 3, 4, 5]
+num.insert(2,3.5)
+print(num)
+[1, 2, 3.5, 3, 4, 5]
+num.append(8)
+print(num)
+[1, 2, 3.5, 3, 4, 5, 8]
+
+num.remove(4)
+print(num)
+[1, 2, 3.5, 3, 5, 8]
