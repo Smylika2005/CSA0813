@@ -1,0 +1,3 @@
+n="helloworld"
+print(len(n))
+10
