@@ -1,0 +1,5 @@
+n="helloworld"
+print(sorted(n))
+['d', 'e', 'h', 'l', 'l', 'l', 'o', 'o', 'r', 'w']
+print(sorted(n,reverse=True))
+['w', 'r', 'o', 'o', 'l', 'l', 'l', 'h', 'e', 'd']
