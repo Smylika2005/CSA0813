@@ -1,0 +1,8 @@
+p=eval(input("enter the number"))
+enter the number100
+t=eval(input("enter the number"))
+enter the number300
+r=eval(input("enter the number"))
+enter the number200
+print(p*(1+r/t)**n*t-p)
+1071573.525
