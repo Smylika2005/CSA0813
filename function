@@ -1,0 +1,9 @@
+def add():
+    n1=int(input("enter the number"))
+    n2=int(input("enter the number:"))
+    print("addition of {}+{}is{}".format(n1,n2,(n1+n2)))
+    
+add()
+enter the number8
+enter the number:4567
+addition of 8+4567is4575
