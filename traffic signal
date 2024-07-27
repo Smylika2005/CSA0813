@@ -1,0 +1,9 @@
+signal=str(input("enter the colour"))
+if(signal=="red"):
+    print("wait")
+elif(signal=="orange"):
+    print("ready to go")
+else:
+    print("go")
+enter the colourgreen
+go
