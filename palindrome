@@ -1,0 +1,13 @@
+n=121
+rev=0
+num=0
+num=n
+while(n>0):
+    rem=n%10
+    rev=(rev*10)+rem
+    n//=10
+if(num==rev):
+    print("n is palindrome")
+else:
+    print("n is not palindrome")
+n is palindrome
