@@ -1,0 +1,18 @@
+def area(r):
+    return(3.14*r*r)
+r=int(input("enter the value:"))
+print("area is {}".format (area(r)))
+def area(len,bre):
+    return(len*bre)
+len=int(input("enter the number:"))
+bre=int(input("enter the number:"))
+print("area is{}".format (area(len,bre)))
+def area(base,heigt):
+    return(0.5*base*height)
+base=int(input("enter the number"))
+height=int(input("enter the number"))
+print("area is{}".format (area(base,height)))
+def area(side):
+    return(side*side)
+side=int(input("enter the number:"))
+print("area is{}".format (area(side)))
