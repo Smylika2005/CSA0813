@@ -1,0 +1,7 @@
+n=20
+if(n>18):
+    print("n is eligible for voting")
+else:
+    print("n is not eligible for voting")
+n is eligible for voting
+
