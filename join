@@ -1,0 +1,4 @@
+b="smylika"
+a="-"
+a.join(b)
+'s-m-y-l-i-k-a'
