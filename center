@@ -1,0 +1,3 @@
+a="smylika"
+a.center(19,"*")
+'******smylika******'
