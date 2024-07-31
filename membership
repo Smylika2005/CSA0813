@@ -1,0 +1,7 @@
+s="good morning"
+"m" in s
+True
+"a" not in s
+True
+"s" in s
+False
