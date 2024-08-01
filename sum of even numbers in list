@@ -1,0 +1,7 @@
+list=[1,2,3,4,6]
+sum=0
+for num in list:
+    if(num%2==0):
+        sum=sum+i
+print("sum of even numbers",sum)
+sum of even numbers=12
