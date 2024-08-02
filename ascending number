@@ -1,0 +1,5 @@
+def asc():
+    list=[1,3,5,2,7]
+    print(sorted(list))
+asc()
+[1, 2, 3, 5, 7]
