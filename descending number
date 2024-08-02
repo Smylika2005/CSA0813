@@ -1,0 +1,6 @@
+def dec():
+    a=[1,5,8,3,9]
+    b=sorted(a,reversed==True)
+    print(b)
+    dec()
+[9,8,5,3,1]
